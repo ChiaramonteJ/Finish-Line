@@ -52,6 +52,33 @@ h1, h2, h4 {
     color: #000;
 }
 
+.contact-section {
+    background-color: #111;
+}
+
+.contact-card {
+    background-color: #1c1c1c;
+    border: 1px solid #333;
+    border-radius: 8px;
+    max-width: 600px;
+    box-shadow: 0 0 25px rgba(0,0,0,0.6);
+}
+
+.contact-link {
+    color: #f4b400;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.contact-link:hover {
+    color: #ffffff;
+}
+
+.contact-divider {
+    border-color: #444;
+}
+
 section {
     border-bottom: 1px solid #222;
 }
