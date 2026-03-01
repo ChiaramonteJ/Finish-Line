@@ -11,7 +11,16 @@ body {
     background-position: center;
     height: 90vh;
 }
-
+/* Mobile Fix */
+@media (max-width: 768px) {
+    .hero-section {
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center top;
+        height: auto;
+        padding: 100px 0;
+    }
+}
 h1, h2, h4 {
     font-weight: 700;
     text-transform: uppercase;
