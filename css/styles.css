@@ -6,7 +6,7 @@ body {
 
 .hero-section {
     background: linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.75)), 
-    url('/images/logo/Finishline_Logo.jpg');
+    url('images/logo/Finishline_Logo.jpg');
     background-size: cover;
     background-position: center;
     height: 90vh;
