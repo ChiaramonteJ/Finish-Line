@@ -42,6 +42,15 @@ h1, h2, h4 {
 .btn-warning:hover {
     background-color: #d89c00;
 }
+.btn-outline-warning {
+    border: 2px solid #f4b400;
+    color: #f4b400;
+}
+
+.btn-outline-warning:hover {
+    background-color: #f4b400;
+    color: #000;
+}
 
 section {
     border-bottom: 1px solid #222;
