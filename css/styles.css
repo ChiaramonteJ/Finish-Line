@@ -3,6 +3,9 @@ body {
     color: #f5f5f5;
     font-family: 'Segoe UI', sans-serif;
 }
+.navbar-brand img {
+  max-height: 45px;
+}
 .hero-section {
     background-color: #111;
     min-height: 80vh;
