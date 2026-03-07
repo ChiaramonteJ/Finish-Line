@@ -3,68 +3,110 @@
 
   <url>
     <loc>https://finishline-concrete.com/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-07</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://finishline-concrete.com/service-area/</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-    <url>
-    <loc>https://finishline-concrete.com/hopkins-mi/</loc>
-    <lastmod>2026-03-06</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://finishline-concrete.com/grand-rapids-mi/</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://finishline-concrete.com/kalamazoo-mi/</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://finishline-concrete.com/allegan-mi/</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://finishline-concrete.com/martin-mi/</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://finishline-concrete.com/wayland-mi/</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://finishline-concrete.com/otsego-mi/</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://finishline-concrete.com/about/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-07</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://finishline-concrete.com/contact/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-07</lastmod>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/alamo-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/allegan-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/dorr-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/fennville-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/grand-rapids-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/hopkins-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/kalamazoo-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/martin-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/orangeville-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/otsego-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/plainwell-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/service-area/wayland-mi/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/projects/concrete-pojects/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://finishline-concrete.com/projects/excavation-projects/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
