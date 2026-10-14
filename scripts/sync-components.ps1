@@ -6,7 +6,7 @@ foreach ($file in Get-ChildItem $root -Recurse -Filter *.html) {
     $html = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
     foreach ($name in 'navbar','footer') {
         $fragment = (Get-Content -LiteralPath (Join-Path $root "components/$name.html") -Raw -Encoding UTF8).Trim()
-        $replacement = "<!-- shared:$name:start -->`n$fragment`n<!-- shared:$name:end -->"
+        $replacement = "<!-- shared:${name}:start -->`n$fragment`n<!-- shared:${name}:end -->"
         $pattern = "(?s)<!-- shared:$name`:start -->.*?<!-- shared:$name`:end -->"
         $html = [regex]::Replace($html, $pattern, [System.Text.RegularExpressions.MatchEvaluator]{param($m) $replacement})
     }
